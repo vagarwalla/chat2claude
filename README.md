@@ -3,7 +3,7 @@
 Converts your chat therapy conversations into uploadable chunks to start a Claude project! 
 name by me, coding by ai
 
-## Therapy Conversation Processing Workflow
+## therapy JSON conversations minimization
 
 Automated script to process ChatGPT conversation exports: automatically identifies therapy conversations, cleans and minifies them, then splits into upload-ready chunks for claude projects.
 
