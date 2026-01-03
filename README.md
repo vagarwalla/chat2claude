@@ -1,10 +1,15 @@
 # chat2claude
 
-Converts your chat therapy conversations into uploadable chunks to start a Claude project!
+Converts your chat therapy conversations into uploadable chunks to start a Claude project! 
+name by me, coding by ai
 
 ## Therapy Conversation Processing Workflow
 
-Automated script to process ChatGPT conversation exports: automatically identifies therapy conversations, cleans and minifies them, then splits into upload-ready chunks.
+Automated script to process ChatGPT conversation exports: automatically identifies therapy conversations, cleans and minifies them, then splits into upload-ready chunks for claude projects.
+
+Note: this assumes your therapy convos are in a separate folder, and that they are the main project you have. if this isn't true, i'd suggest using cursor etc. to modify the script to correctly identify your therapy conversations (although the project/gizmo id is the best and cleanest. might be worth spending 10m organizing your chat history) 
+
+in theory you can use this for any project in chat. 
 
 ## What You Need
 
