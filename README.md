@@ -1,4 +1,8 @@
-# Therapy Conversation Processing Workflow
+# chat2claude
+
+Converts your chat therapy conversations into uploadable chunks to start a Claude project!
+
+## Therapy Conversation Processing Workflow
 
 Automated script to process ChatGPT conversation exports: automatically identifies therapy conversations, cleans and minifies them, then splits into upload-ready chunks.
 
