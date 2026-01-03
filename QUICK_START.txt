@@ -1,0 +1,16 @@
+QUICK START GUIDE
+=================
+
+1. Make sure Python is installed (python.org)
+
+2. Put your conversations.json file in the same folder as process_therapy_conversations.py
+
+3. Double-click process_therapy_conversations.py
+
+4. Wait for it to finish (may take a few minutes for large files)
+
+5. Find your chunked files in: test/Upload these files/
+
+That's it!
+
+For more details, see README.md
